@@ -1,6 +1,3 @@
-__author__ = "Samuel Amogbonjaye"
-
-
 
 from tkinter import *
 from tkinter import ttk
